@@ -1,12 +1,14 @@
-### Verilog-Practice
+# Verilog-Practice
 
-##Introduction
-#Modules
-#Simulation and Synthesis 
+## Introduction
+### Modules
+### Simulation and Synthesis 
 
-##Combinational Logic 
+## Combinational Logic 
 
-# Bitwise Operators
+### Bitwise Operators
+
+
 4.2.2 Comments and White Space ....................... 178
 4.2.3 Reduction Operators ............................. 178
 4.2.4 Conditional Assignment ........................... 179
