@@ -1,8 +1,9 @@
-// Gate-level modeling
-module mux4to1 (a,b,c,d,s0,s1,out);
+
+// Gate-level / structural level modeling
+module mux4_1 (a,b,c,d,s0,s1,out);
 	input a,b,c,d;
 	input s0,s1;
-	output reg out;
+	output out;
 	wire s0bar, s1bar, wa, wb, wc, wd; 
 	
 	not na (s0bar,s0),
@@ -13,7 +14,7 @@ module mux4to1 (a,b,c,d,s0,s1,out);
 	    andc (wc,c,s0bar,s1),
 	    andd (wd,d,s0,s1);  
 		
-	or or_out (y, wa,wb,wc,wd);
+	or or_out (out,wa,wb,wc,wd);
 
 endmodule
 	
