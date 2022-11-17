@@ -5,38 +5,38 @@
 ### Simulation and Synthesis 
 
 ## Combinational Logic 
-### Half Adder
-### Full Adder
-### Half Subtractor
-### Full Subtractor
-### Binary Adder
-### Binary Adder-Subtractor
-### Decimal or BCD Adder
-### Magnitude Comparator
-### Decoder
-### Encoder
-### Multiplexer
-### De-multiplexer
+#### Half Adder
+#### Full Adder
+#### Half Subtractor
+#### Full Subtractor
+#### Binary Adder
+#### Binary Adder-Subtractor
+#### Decimal or BCD Adder
+#### Magnitude Comparator
+#### Decoder
+#### Encoder
+#### Multiplexer
+#### De-multiplexer
 
 ## Sequential Logic
 
-### flip flop
-### SR flip flop
-### JK flip flop
-### D flip flop
-### T flip flop
-### Master slave flip flop
-### Register
-### counters
+#### flip flop
+#### SR flip flop
+#### JK flip flop
+#### D flip flop
+#### T flip flop
+#### Master slave flip flop
+#### Register
+#### counters
 
 ## Memory unit
 
-### Shift register
-### Counters
-### Ripple counter
-### Ring counter
-### Johnson counter
-### Latches
+#### Shift register
+#### Counters
+#### Ripple counter
+#### Ring counter
+#### Johnson counter
+#### Latches
 
 
 
