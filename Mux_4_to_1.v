@@ -1,5 +1,24 @@
+//_________________________________________ Dataflow modeling
+  module mux4_1 (a,b,c,d,s0,s1,out);
+	input a,b,c,d;
+	input s0,s1;
+	output out;
+	wire s0bar, s1bar, wa, wb, wc, wd; 
+	
+	assign s0bar = ~s0;
+	assign s1bar = ~s1;
+	
+	assign wa = a & s0bar & s1bar;
+	assign wb = b & s0 & s1bar;
+	assign wc = c & s0bar & s1;
+	assign wd = d & s0 & s1; 
+		
+	assign out = wa | wb | wc | wd;
 
-// Gate-level / structural level modeling
+endmodule	 
+
+
+//_________________________________________ Gate-level modeling
 module mux4_1 (a,b,c,d,s0,s1,out);
 	input a,b,c,d;
 	input s0,s1;
@@ -17,11 +36,9 @@ module mux4_1 (a,b,c,d,s0,s1,out);
 	or or_out (out,wa,wb,wc,wd);
 
 endmodule
-	
-	
 
-/*
-//Behavioral model
+
+//____________________________________________Behavioral modeling
 module mux4to1 (a,b,c,d,s,out);
 	input a,b,c,d;
 	input [1:0] s;
@@ -52,4 +69,3 @@ module mux4to1 (a,b,c,d,s,out);
 
 endmodule	
 
-*/
