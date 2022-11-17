@@ -1,8 +1,8 @@
 # Verilog-Practice
 
 ## Introduction
-### Modules
-### Simulation and Synthesis 
+#### Modules
+#### Simulation and Synthesis 
 
 ## Combinational Logic 
 #### Half Adder
