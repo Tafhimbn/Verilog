@@ -1,5 +1,24 @@
-//	Structural / gatelevel modeling
-// 2 to 4 decoder
+ //__________________________________________Dataflow modeling
+
+module decoder_2_4 (a,b,en,out);
+	input a,b,en;
+	output [0:3]out;
+	wire a_bar, b_bar;
+	
+	assign a_bar = ~a;
+	assign b_bar = ~b;
+		
+	
+	assign out[0] = en & a_bar & b_bar;
+	assign out[1] = en & a & b_bar;
+	assign out[2] = en & a_bar & b;
+	assign out[3] = en & a & b;	
+
+endmodule
+
+
+//__________________________________________Structural / gatelevel modeling
+
 module decoder_2_4 (a,b,en,out);
 	input a,b,en;
 	output [0:3]out;
@@ -14,4 +33,4 @@ module decoder_2_4 (a,b,en,out);
 	    g3 (out[2],en,a_bar,b),
 	    g4 (out[3],en,a,b);	
 
-endmodule
+endmodule  
