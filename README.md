@@ -5,10 +5,14 @@
 #### Simulation and Synthesis 
 
 ## Combinational Logic 
-####   [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder_test.v)
-####   [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
-#### [Half Subtractor](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor_test.v)
-#### Full Subtractor
+####  i. [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder_test.v)
+####  ii. [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
+#### iii. [Half Subtractor](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/202917567-b9b75b6e-78b2-4269-88a2-b630306c8d88.png" width="300" height="200">
+
+#### iv. Full Subtractor
+
+<img src="https://user-images.githubusercontent.com/47665581/202917494-77dede85-b234-4e4b-b4a9-72d74b371b68.png" width="300" height="200">
 #### Binary Adder
 #### Binary Adder-Subtractor
 #### Decimal or BCD Adder
