@@ -1,3 +1,28 @@
+// Dataflow modeling
+module half_sub (a,b,diff,borr);
+	input a,b;
+	output diff, borr; 
+	
+	assign diff = a^b;
+	assign borr = (~a)&b;
+
+endmodule
+
+/*
+// Behavioral modeling
+
+module half_sub (a,b,diff,borr);
+	input a,b;
+	output reg diff, borr; 
+	
+	always@(a,b)
+		begin
+		diff = a^b;
+		borr = (~a)&b;
+		end
+endmodule
+	
+
 // Structural / Gate-level modeling
 
 module half_sub (a,b,diff,borr);
@@ -13,3 +38,4 @@ module half_sub (a,b,diff,borr);
 	
 endmodule
 	
+*/	
