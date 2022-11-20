@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-module ha_testbench;
+module hs_testbench;
 	reg a,b;
 	wire diff,borr;	   
 	
