@@ -15,3 +15,15 @@ module ha_testbench;
 		#5 $finish;
 	end			
 endmodule
+
+
+/*
+Output:
+
+0a=x,b=x,diff=x,borr=x
+5a=0,b=0,diff=0,borr=0
+10a=1,b=0,diff=1,borr=0
+15a=0,b=1,diff=1,borr=1
+20a=1,b=1,diff=0,borr=0
+
+*/
