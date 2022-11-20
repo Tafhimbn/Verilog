@@ -1,12 +1,12 @@
 # Verilog-Practice
-
+[ ]( )
 ## Introduction
 #### Modules
 #### Simulation and Synthesis 
 
 ## Combinational Logic 
 #### Half Adder
-#### Full Adder
+#### [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Testbench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
 #### Half Subtractor
 #### Full Subtractor
 #### Binary Adder
