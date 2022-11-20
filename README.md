@@ -8,31 +8,24 @@
 ####  i. [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder_test.v)
 ####  ii. [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
 #### iii. [Half Subtractor](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor_test.v)
-<img src="https://user-images.githubusercontent.com/47665581/202917567-b9b75b6e-78b2-4269-88a2-b630306c8d88.png" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/47665581/202918094-e84c8dfc-9234-4114-bd37-80de7f3649cc.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/202918117-0e570bd1-386a-4b7a-bb95-b46ccad3d983.png" width="300" height="200">
 
-#### iv. Full Subtractor
+#### iv. [Full Subtractor](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_subtractor.v)  - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_subtractor_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/202918071-6423a668-93d3-440d-b564-04b000f78918.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/202918019-decb0a13-cae8-49bd-b910-54e9b7129547.png" width="300" height="200">
 
-<img src="https://user-images.githubusercontent.com/47665581/202917494-77dede85-b234-4e4b-b4a9-72d74b371b68.png" width="300" height="200">
-
-#### v. [Binary Adder](_) - [Test bench](_)
+#### v. [N-bit Adder](_) - [Test bench](_)
 <img src="_" width="300" height="200">
 
-#### vi. [Binary Adder-Subtractor](_) - [Test bench](_)
+#### vi. [Magnitude Comparator](_) - [Test bench](_)
 <img src="_" width="300" height="200">
 
-#### vii. [Decimal or BCD Adder](_) - [Test bench](_)
+#### vii. [Decoder](_) - [Test bench](_)
 <img src="_" width="300" height="200">
 
-#### viii. [Magnitude Comparator](_) - [Test bench](_)
+#### viii. [Encoder](_) - [Test bench](_)
 <img src="_" width="300" height="200">
 
-#### ix. [Decoder](_) - [Test bench](_)
-<img src="_" width="300" height="200">
-
-#### x. [Encoder](_) - [Test bench](_)
-<img src="_" width="300" height="200">
-
-#### xi. [Multiplexer](_) - [Test bench](_)
+#### ix. [Multiplexer](_) - [Test bench](_)
 <img src="_" width="300" height="200">
 
 #### xii. [De-multiplexer](_) - [Test bench](_)
