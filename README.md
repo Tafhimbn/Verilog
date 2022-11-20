@@ -5,8 +5,8 @@
 #### Simulation and Synthesis 
 
 ## Combinational Logic 
-#### Half Adder
-#### [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Testbench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
+####   [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder.v) -  [Testbench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder_test.v)
+####   [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Testbench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
 #### Half Subtractor
 #### Full Subtractor
 #### Binary Adder
