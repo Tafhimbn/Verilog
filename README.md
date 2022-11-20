@@ -13,14 +13,30 @@
 #### iv. Full Subtractor
 
 <img src="https://user-images.githubusercontent.com/47665581/202917494-77dede85-b234-4e4b-b4a9-72d74b371b68.png" width="300" height="200">
-#### Binary Adder
-#### Binary Adder-Subtractor
-#### Decimal or BCD Adder
-#### Magnitude Comparator
-#### Decoder
-#### Encoder
-#### Multiplexer
-#### De-multiplexer
+
+#### v. [Binary Adder](_) - [Test bench](_)
+<img src="_" width="300" height="200">
+
+#### vi. [Binary Adder-Subtractor](_) - [Test bench](_)
+<img src="_" width="300" height="200">
+
+#### vii. [Decimal or BCD Adder](_) - [Test bench](_)
+<img src="_" width="300" height="200">
+
+#### viii. [Magnitude Comparator](_) - [Test bench](_)
+<img src="_" width="300" height="200">
+
+#### ix. [Decoder](_) - [Test bench](_)
+<img src="_" width="300" height="200">
+
+#### x. [Encoder](_) - [Test bench](_)
+<img src="_" width="300" height="200">
+
+#### xi. [Multiplexer](_) - [Test bench](_)
+<img src="_" width="300" height="200">
+
+#### xii. [De-multiplexer](_) - [Test bench](_)
+<img src="_" width="300" height="200">
 
 ## Sequential Logic
 
