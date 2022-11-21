@@ -33,6 +33,8 @@ module comparator(a, b, alb, aeb, agb);
 	
 endmodule 
 
+
+/*
 // Behavioral Modeling		
 
 module comparator(a, b, alb, aeb, agb);
@@ -70,7 +72,7 @@ module comparator(a, b, alb, aeb, agb);
 	      end
 endmodule 
 
-/*		
+		
 // Structural / gatelevel modeling
 
 module comparator(a, b, alb, aeb, agb);
