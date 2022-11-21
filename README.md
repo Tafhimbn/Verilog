@@ -6,15 +6,19 @@
 
 ## Combinational Logic 
 ####  i. [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/203012397-d25b2ecc-8a96-4e29-8f4e-8185b5a72c7a.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/203013026-8fd1aa10-359f-4fed-a9e7-086e762ec4e5.png" width="300" height="200">
+
 ####  ii. [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/203013452-617268fd-4fd1-45e5-a6e8-14e3050cc158.png" width="300" height="200">  <img src="https://media.geeksforgeeks.org/wp-content/uploads/2-41.jpg" width="300" height="200">
+
 #### iii. [Half Subtractor](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_subtractor_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/202918094-e84c8dfc-9234-4114-bd37-80de7f3649cc.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/202918117-0e570bd1-386a-4b7a-bb95-b46ccad3d983.png" width="300" height="200">
 
 #### iv. [Full Subtractor](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_subtractor.v)  - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_subtractor_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/202918071-6423a668-93d3-440d-b564-04b000f78918.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/202918019-decb0a13-cae8-49bd-b910-54e9b7129547.png" width="300" height="200">
 
-#### v. [N-bit Adder](_) - [Test bench](_)
-<img src="_" width="300" height="200">
+#### v. [N-bit Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_n_bit.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_n_bit_test.v)
+
 
 #### vi. [Magnitude Comparator](_) - [Test bench](_)
 <img src="_" width="300" height="200">
