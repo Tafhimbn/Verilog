@@ -20,8 +20,8 @@
 #### v. [N-bit Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_n_bit.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_n_bit_test.v)
 
 
-#### vi. [Magnitude Comparator](_) - [Test bench](_)
-<img src="_" width="300" height="200">
+#### vi. [Magnitude Comparator](https://github.com/Tafhimbn/Verilog-Practice/blob/main/comparator%20_4_Bit_IC7485.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/comparator%20_4_Bit_IC7485_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/203226869-12c51813-0ed7-4064-b27a-33d35b1cc456.png" width="300" height="200">
 
 #### vii. [Decoder](_) - [Test bench](_)
 <img src="_" width="300" height="200">
