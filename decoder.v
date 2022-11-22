@@ -1,4 +1,5 @@
- //__________________________________________Dataflow modeling
+ 
+//	Dataflow modeling
 
 module decoder_2_4 (a,b,en,out);
 	input a,b,en;
@@ -16,8 +17,8 @@ module decoder_2_4 (a,b,en,out);
 
 endmodule
 
-
-//__________________________________________Structural / gatelevel modeling
+/*
+//	Structural / gatelevel modeling
 
 module decoder_2_4 (a,b,en,out);
 	input a,b,en;
@@ -34,3 +35,4 @@ module decoder_2_4 (a,b,en,out);
 	    g4 (out[3],en,a,b);	
 
 endmodule  
+*/
