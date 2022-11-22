@@ -23,8 +23,8 @@
 #### vi. [Magnitude Comparator](https://github.com/Tafhimbn/Verilog-Practice/blob/main/comparator%20_4_Bit_IC7485.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/comparator%20_4_Bit_IC7485_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/203226869-12c51813-0ed7-4064-b27a-33d35b1cc456.png" width="300" height="200">
 
-#### vii. [Decoder](_) - [Test bench](_)
-<img src="_" width="300" height="200">
+#### vii. [Decoder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/decoder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/decoder_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/203227936-01799089-9f21-4589-8b00-98b7b617fdcf.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/203228078-82b32e71-6ed9-4d7e-95be-54612d8b8db9.png" width="300" height="200">
 
 #### viii. [Encoder](_) - [Test bench](_)
 <img src="_" width="300" height="200">
