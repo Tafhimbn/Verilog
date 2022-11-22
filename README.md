@@ -26,8 +26,8 @@
 #### vii. [Decoder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/decoder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/decoder_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/203227936-01799089-9f21-4589-8b00-98b7b617fdcf.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/203228078-82b32e71-6ed9-4d7e-95be-54612d8b8db9.png" width="300" height="200">
 
-#### viii. [Encoder](_) - [Test bench](_)
-<img src="_" width="300" height="200">
+#### viii. [Encoder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/encoder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/encoder_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/203236420-6791f7d9-e0f9-4c3f-87f9-f5a93236eb0c.png" width="300" height="200">   <img src="https://media.geeksforgeeks.org/wp-content/uploads/truth-table-4x2-encoder.jpg" width="300" height="200">   
 
 #### ix. [Multiplexer](_) - [Test bench](_)
 <img src="_" width="300" height="200">
