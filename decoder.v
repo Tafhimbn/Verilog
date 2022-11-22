@@ -1,5 +1,5 @@
- 
-//	Dataflow modeling
+
+//______________________________________Dataflow modeling
 
 module decoder_2_4 (a,b,en,out);
 	input a,b,en;
@@ -18,7 +18,28 @@ module decoder_2_4 (a,b,en,out);
 endmodule
 
 /*
-//	Structural / gatelevel modeling
+
+// _____________________________________Behavioral modeling 
+
+module decoder_2_4 (a,b,en,out);
+	input a,b,en;
+	output reg [0:3]out;
+	reg a_bar, b_bar;
+	
+	always@(a,b,en)
+		begin
+			a_bar = ~a;
+			b_bar = ~b;
+		
+			out[0] = en & a_bar & b_bar;
+			out[1] = en & a & b_bar;
+			out[2] = en & a_bar & b;
+			out[3] = en & a & b;	
+	   	  end
+endmodule
+
+
+//_________________________________Structural / gatelevel modeling
 
 module decoder_2_4 (a,b,en,out);
 	input a,b,en;
