@@ -17,7 +17,7 @@
 
 endmodule	 
 
-
+/*
 //_________________________________________ Gate-level modeling
 module mux4_1 (a,b,c,d,s0,s1,out);
 	input a,b,c,d;
@@ -69,3 +69,4 @@ module mux4to1 (a,b,c,d,s,out);
 
 endmodule	
 
+*/
