@@ -1,10 +1,10 @@
 # Verilog-Practice
 [ ]( )
-## Introduction
-#### Modules
+##  ❖ Introduction
+####  Modules
 #### Simulation and Synthesis 
 
-## Combinational Logic 
+##  ❖ Combinational Logic 
 ####  i. [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/203012397-d25b2ecc-8a96-4e29-8f4e-8185b5a72c7a.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/203013026-8fd1aa10-359f-4fed-a9e7-086e762ec4e5.png" width="300" height="200">
 
@@ -31,14 +31,14 @@
 
 #### ix. [Multiplexer](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_2to1.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_2to1_test.v)
 
-<img src="_" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/47665581/203512606-6ae9b16c-af72-45f7-8a09-fbd74ceb3d5d.png" width="300" height="200">   <img src="https://user-images.githubusercontent.com/47665581/203512812-7878919e-5db1-4d71-a46a-4c66636fffb8.png" width="300" height="200">
          
-        [4 to 1 Multiplexer](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_4to1.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_4to1_test.v)
+###### • [4 to 1 Multiplexer](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_4to1.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_4to1_test.v)
 
 #### xii. [De-multiplexer](_) - [Test bench](_)
 <img src="_" width="300" height="200">
 
-## Sequential Logic
+##  ❖ Sequential Logic
 
 #### flip flop
 #### SR flip flop
@@ -49,7 +49,7 @@
 #### Register
 #### counters
 
-## Memory unit
+##  ❖ Memory unit
 
 #### Shift register
 #### Counters
@@ -62,7 +62,7 @@
 
 
 
-### Bitwise Operators
+##  ❖ Bitwise Operators
 
 
 4.2.2 Comments and White Space ....................... 178
