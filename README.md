@@ -29,8 +29,11 @@
 #### viii. [Encoder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/encoder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/encoder_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/203236420-6791f7d9-e0f9-4c3f-87f9-f5a93236eb0c.png" width="300" height="200">   <img src="https://media.geeksforgeeks.org/wp-content/uploads/truth-table-4x2-encoder.jpg" width="300" height="200">   
 
-#### ix. [Multiplexer](_) - [Test bench](_)
+#### ix. [Multiplexer](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_2to1.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_2to1_test.v)
+
 <img src="_" width="300" height="200">
+         
+        [4 to 1 Multiplexer](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_4to1.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/mux_4to1_test.v)
 
 #### xii. [De-multiplexer](_) - [Test bench](_)
 <img src="_" width="300" height="200">
