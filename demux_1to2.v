@@ -1,3 +1,4 @@
+
 // using datflow model
 
 module demux2_1 (out0,out1,data,s);
@@ -28,17 +29,16 @@ endmodule
 //_________________________________Gatelevel modeling  
 
 
-module mux2_1 (out,a,b,s);
-	input a,b,s;
-	output out;
-    wire  invs,out0,out1;
+module demux2_1 (out0,out1,data,s);
+	input data,s;
+	output out0,out1;
+    wire  invs;
 	
 	not inv(invs,s);
 	
-	and and0(out0,a,invs);
-	and and1(out1,b,s);
-	
-	or or_out (out,out0,out1);
+	and and0(out0,data,invs);
+	and and1(out1,data,s);
+
 endmodule  
 
 */
