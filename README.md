@@ -5,7 +5,7 @@
 #### Simulation and Synthesis 
 
 ##  ❖ Combinational Logic 
-####  i. [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/Half_adder_test.v)
+####  i. [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_adder_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/203012397-d25b2ecc-8a96-4e29-8f4e-8185b5a72c7a.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/203013026-8fd1aa10-359f-4fed-a9e7-086e762ec4e5.png" width="300" height="200">
 
 ####  ii. [Full Adder ]( https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/full_adder_test.v)
@@ -25,7 +25,7 @@
 
 #### vii. [Decoder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/decoder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/decoder_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/203227936-01799089-9f21-4589-8b00-98b7b617fdcf.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/203228078-82b32e71-6ed9-4d7e-95be-54612d8b8db9.png" width="300" height="200">
-
+###### • [Parity Decoder](https://github.com/Tafhimbn/Verilog/blob/main/parity_detector.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/decoder_test.v)
 #### viii. [Encoder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/encoder.v) - [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/encoder_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/203236420-6791f7d9-e0f9-4c3f-87f9-f5a93236eb0c.png" width="300" height="200">   <img src="https://user-images.githubusercontent.com/47665581/204127158-9605e0a1-2a02-42db-916e-ae02afc0bb4e.png" width="300" height="200">   
 
