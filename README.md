@@ -38,7 +38,8 @@
 #### xii. [De-multiplexer](https://github.com/Tafhimbn/Verilog/blob/main/demux_1to2.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/demux_1to2_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/204127641-078fe2cd-f25f-4586-8527-a6df1b63a83e.png" width="500" height="200">  <img src="https://user-images.githubusercontent.com/47665581/204127679-51dca783-7fd6-4a2e-8ddf-88c23380388c.png" width="300" height="200">
 
-###### • [1 to 4 Multiplexer]() - [Test bench]()
+###### • [1 to 4 Multiplexer](https://github.com/Tafhimbn/Verilog/blob/main/demux_1to4.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/demux_1to4_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/204129730-9c6af4c1-9429-47be-82a3-bacb4b3f63c6.png" width="300" height="300">  <img src="https://user-images.githubusercontent.com/47665581/204129752-9b8b6404-ed83-4981-bd07-e7044682c440.png" width="300" height="200">
 
 ##  ❖ Sequential Logic
 
