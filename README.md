@@ -73,3 +73,29 @@
 #### Latches
 
 ##  ❖ Parameterized Modules
+
+##  ❖Verilog projects :
+#### 1. FIFO memory
+#### 2. 16-bit single-cycle MIPS processor
+#### 3. Programmable Digital Delay Timer in Verilog HDL
+#### 4. 32-bit Unsigned Divider
+#### 5. Fixed-Point Matrix Multiplication
+#### 6. Plate License Recognition in Verilog HDL
+#### 7. Carry-Look-Ahead Multiplier
+#### 8. a Microcontroller
+#### 9. 4x4 Multiplier
+#### 10. Car Parking System
+#### 11. Image processing on FPGA using Verilog HDL
+#### 12. How to load a text file into FPGA using Verilog HDL
+#### 13. [Traffic Light Controller](https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM.v) - [https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM_test.v]
+#### 14. Alarm Clock on FPGA
+#### 15. comparator design
+#### 16. 16-bit RISC Processor
+#### 17. Testbench for bidirectional/ inout ports
+#### 18. Tic Tac Toe Game in Verilog and LogiSim
+#### 19. 32-bit 5-stage Pipelined MIPS Processor in Verilog3)
+#### 20. PWM Generator
+#### 21. Sequence Detector using Moore FSM
+#### 22. Seven-Segment LED Display Controller
+#### 23. Ripple Carry Adder
+
