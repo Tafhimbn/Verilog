@@ -56,7 +56,8 @@
 #### [counters](https://github.com/Tafhimbn/Verilog/blob/main/counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/counter_test.v)
 ###### • [Asynchronous counter]()
 <img src="https://user-images.githubusercontent.com/47665581/204127013-b9ec37f3-4caa-4610-a10f-02a66d901102.png" width="400" height="200">
-###### • Synchronous counter 
+
+###### • [Synchronous counter]()
 <img src="https://user-images.githubusercontent.com/47665581/204127029-3371c959-91cf-4bd6-8686-368b6e790ca2.png" width="400" height="200">
 
 #### Finite State Machines
