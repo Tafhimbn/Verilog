@@ -43,22 +43,20 @@
 
 ##  ❖ Sequential Logic
 
-#### i. flip flop
-#### ii. SR flip flop
-#### iii. JK flip flop
-#### iv. D flip flop
-#### v. T flip flop
-#### vi. Master slave flip flop
-#### vii. Register
-####      a. Resettable Registers
-####      b. Enabled Registers
-####      c. Multiple Registers 
-#### viii. [counters](https://github.com/Tafhimbn/Verilog/blob/main/counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/counter_test.v)
-
-####          a. Asynchronous counter
+#### Flip flop and Latches
+###### • SR flip flop
+###### • JK flip flop
+###### • D flip flop
+###### • T flip flop
+#### Master slave flip flop
+#### Register
+###### • Resettable Registers
+###### • Enabled Registers
+###### • Multiple Registers 
+#### [counters](https://github.com/Tafhimbn/Verilog/blob/main/counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/counter_test.v)
+###### • [Asynchronous counter]()
 <img src="https://user-images.githubusercontent.com/47665581/204127013-b9ec37f3-4caa-4610-a10f-02a66d901102.png" width="400" height="200">
-
-####          b. Synchronous counter 
+###### • Synchronous counter 
 <img src="https://user-images.githubusercontent.com/47665581/204127029-3371c959-91cf-4bd6-8686-368b6e790ca2.png" width="400" height="200">
 
 #### Finite State Machines
@@ -67,13 +65,16 @@
 
 #### Shift register
 #### Counters
-#### Ripple counter
-#### Ring counter
-#### Johnson counter
+###### • 4-bit counter
+###### • Ripple Counter
+###### • Straight Ring Counter
+###### • Johnson Counter
+###### • Mod-N Counter
+###### • Gray Counter
 #### Latches
 
 ##  ❖ Parameterized Modules
-
+#### Single Port RAM
 ##  ❖Verilog projects :
 #### 1. FIFO memory
 #### 2. 16-bit single-cycle MIPS processor
