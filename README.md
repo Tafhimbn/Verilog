@@ -65,6 +65,7 @@
 ##  ❖ Memory unit
 
 #### Shift register
+#### Controlled Register
 #### Counters
 ###### • 4-bit counter
 ###### • Ripple Counter
@@ -72,7 +73,9 @@
 ###### • Johnson Counter
 ###### • Mod-N Counter
 ###### • Gray Counter
-#### Latches
+#### Single port Read Only Memory (ROM)
+#### Single port Random Access Memory (RAM)
+#### Dual port memory elements
 
 ##  ❖ Parameterized Modules
 #### Single Port RAM
