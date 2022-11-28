@@ -87,7 +87,7 @@
 #### 10. Car Parking System
 #### 11. Image processing on FPGA using Verilog HDL
 #### 12. How to load a text file into FPGA using Verilog HDL
-#### 13. [Traffic Light Controller](https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM.v) - [https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM_test.v]
+#### 13. [Traffic Light Controller](https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM_test.v)
 #### 14. Alarm Clock on FPGA
 #### 15. comparator design
 #### 16. 16-bit RISC Processor
