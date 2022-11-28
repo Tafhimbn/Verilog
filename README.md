@@ -66,6 +66,10 @@
 
 #### Shift register
 #### Controlled Register
+###### • Shift Register (SISO Mode)
+###### • Shift Register (PIPO Mode)
+###### • Bidirectional Shift Register
+###### • Universal Shift Register
 #### Counters
 ###### • 4-bit counter
 ###### • Ripple Counter
