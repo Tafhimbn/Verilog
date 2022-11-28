@@ -89,13 +89,16 @@
 #### 12. How to load a text file into FPGA using Verilog HDL
 #### 13. [Traffic Light Controller](https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/traffic_light_FSM_test.v)
 #### 14. Alarm Clock on FPGA
-#### 15. comparator design
+#### 15. [Comparator design](https://github.com/Tafhimbn/Verilog/blob/main/comparator.v)  - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/comparator_test.v)
+####     [4-bit Comparator (IC7485) design]([https://github.com/Tafhimbn/Verilog/blob/main/comparator.v](https://github.com/Tafhimbn/Verilog/blob/main/comparator%20_4_Bit_IC7485.v)  - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/comparator%20_4_Bit_IC7485_test.v)
+
 #### 16. 16-bit RISC Processor
 #### 17. Testbench for bidirectional/ inout ports
 #### 18. Tic Tac Toe Game in Verilog and LogiSim
 #### 19. 32-bit 5-stage Pipelined MIPS Processor in Verilog3)
 #### 20. PWM Generator
-#### 21. Sequence Detector using Moore FSM
+#### 21. [Sequence Detector using Moore FSM](https://github.com/Tafhimbn/Verilog/blob/main/sequence_detector_FSM.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/sequence_detector_FSM_test.v)
+
 #### 22. Seven-Segment LED Display Controller
 #### 23. Ripple Carry Adder
 
