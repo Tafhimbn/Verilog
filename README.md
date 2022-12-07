@@ -60,9 +60,17 @@
 ###### • [Synchronous counter]()
 <img src="https://user-images.githubusercontent.com/47665581/204127029-3371c959-91cf-4bd6-8686-368b6e790ca2.png" width="400" height="200">
 
-#### Finite State Machines
+### Finite State Machines modeling
+#### Steps for creating FSM Module in Verilog
+#### Moore & Mealy FSM designing
+#### Control System using FSM
 
 ##  ❖ Memory unit
+#### Memory Designing
+#### Memory Parameters
+#### RAM Design : 1-port/Dual port
+#### ROM Design :1-port/Dual Port
+#### Creating Module for RAM & ROM
 
 #### Shift register
 #### Controlled Register
