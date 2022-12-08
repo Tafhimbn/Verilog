@@ -49,7 +49,7 @@
 
 ###### • JK flip flop
 ###### • [D flip flop]() - [Test bench]()
-<img src="https://user-images.githubusercontent.com/47665581/206373529-5e326019-75b5-46aa-81d2-0e335193ae68.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206373319-fbf36318-11b3-4c76-b115-d69a02cb599d.png" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/47665581/206380572-fa523026-c340-4abb-ba46-3a692d841d1f.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206380774-300b7c00-7f03-4ba1-abb8-9243c9bdddcc.png" width="300" height="200">
 
 ###### • T flip flop
 #### Master slave flip flop
