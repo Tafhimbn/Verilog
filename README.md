@@ -45,7 +45,7 @@
 
 #### Flip flop and Latches
 ###### • SR Latches
-<img src="https://user-images.githubusercontent.com/47665581/206357450-8ff2ea3f-62a0-4e46-af8e-e5be61b7783c.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206357612-702bc49d-e122-4c8e-8819-6682f10e9e44.png" width="300" height="200">  
+<img src="https://user-images.githubusercontent.com/47665581/206358162-c3377ec9-d55d-4da3-a1d0-4e0ad823f6db.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206357612-702bc49d-e122-4c8e-8819-6682f10e9e44.png" width="300" height="200">  
 
 ###### • JK flip flop
 ###### • D flip flop
