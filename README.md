@@ -48,7 +48,9 @@
 <img src="https://user-images.githubusercontent.com/47665581/206358162-c3377ec9-d55d-4da3-a1d0-4e0ad823f6db.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206357612-702bc49d-e122-4c8e-8819-6682f10e9e44.png" width="300" height="200">  
 
 ###### • JK flip flop
-###### • D flip flop
+###### • [D flip flop]() - [Test bench]()
+<img src="https://user-images.githubusercontent.com/47665581/206373529-5e326019-75b5-46aa-81d2-0e335193ae68.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206373319-fbf36318-11b3-4c76-b115-d69a02cb599d.png" width="300" height="200">
+
 ###### • T flip flop
 #### Master slave flip flop
 #### Register
