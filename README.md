@@ -74,7 +74,7 @@
 ###### • Johnson Counter
 
 ##### • Mod-N Counter
-#####• Gray Counter
+##### • Gray Counter
 
 #### Shift register
 #### Controlled Register
