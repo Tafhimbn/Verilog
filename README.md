@@ -64,6 +64,7 @@
 
 ###### • [Synchronous counter]()
 <img src="https://user-images.githubusercontent.com/47665581/204127029-3371c959-91cf-4bd6-8686-368b6e790ca2.png" width="400" height="200">
+
 ###### • Ripple Counter
 ###### • Straight Ring Counter
 ###### • Johnson Counter
