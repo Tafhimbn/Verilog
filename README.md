@@ -57,13 +57,29 @@
 ###### • Resettable Registers
 ###### • Enabled Registers
 ###### • Multiple Registers 
-#### [counters](https://github.com/Tafhimbn/Verilog/blob/main/counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/counter_test.v)
+#### counters
+###### • [8-bit counter](https://github.com/Tafhimbn/Verilog/blob/main/counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/counter_test.v)
 ###### • [Asynchronous counter]()
 <img src="https://user-images.githubusercontent.com/47665581/204127013-b9ec37f3-4caa-4610-a10f-02a66d901102.png" width="400" height="200">
 
 ###### • [Synchronous counter]()
 <img src="https://user-images.githubusercontent.com/47665581/204127029-3371c959-91cf-4bd6-8686-368b6e790ca2.png" width="400" height="200">
+###### • Ripple Counter
+###### • Straight Ring Counter
+###### • Johnson Counter
+###### • Mod-N Counter
+###### • Gray Counter
 
+#### Shift register
+#### Controlled Register
+###### • Shift Register (SISO Mode)
+###### • Shift Register (PIPO Mode)
+###### • Bidirectional Shift Register
+###### • Universal Shift Register
+
+#### Single port Read Only Memory (ROM)
+#### Single port Random Access Memory (RAM)
+#### Dual port memory elements
 ### Finite State Machines modeling
 #### Steps for creating FSM Module in Verilog
 #### Moore & Mealy FSM designing
@@ -75,23 +91,6 @@
 #### RAM Design : 1-port/Dual port
 #### ROM Design :1-port/Dual Port
 #### Creating Module for RAM & ROM
-
-#### Shift register
-#### Controlled Register
-###### • Shift Register (SISO Mode)
-###### • Shift Register (PIPO Mode)
-###### • Bidirectional Shift Register
-###### • Universal Shift Register
-#### Counters
-###### • 4-bit counter
-###### • Ripple Counter
-###### • Straight Ring Counter
-###### • Johnson Counter
-###### • Mod-N Counter
-###### • Gray Counter
-#### Single port Read Only Memory (ROM)
-#### Single port Random Access Memory (RAM)
-#### Dual port memory elements
 
 ##  ❖ Parameterized Modules
 #### Single Port RAM
