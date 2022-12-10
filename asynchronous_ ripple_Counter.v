@@ -34,7 +34,7 @@ module async_counter(clk, rst,out);
 endmodule
 
 
-// Asynchronous counter down using D FF
+// Asynchronous / ripple down counter using D FF
 
 module d_ff(q,qbar,clk, d,rst);
 	input d, rst, clk;
