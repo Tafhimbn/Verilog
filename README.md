@@ -62,8 +62,8 @@
 ### counters
 ##### • [8-bit counter](https://github.com/Tafhimbn/Verilog/blob/main/counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/counter_test.v)
 
-##### • [Asynchronous counter / Ripple Counter]()
-<img src="https://user-images.githubusercontent.com/47665581/204127013-b9ec37f3-4caa-4610-a10f-02a66d901102.png" width="400" height="200">
+##### • [Asynchronous counter / Ripple Counter](https://github.com/Tafhimbn/Verilog/blob/main/asynchronous_%20ripple_Counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/asynchronous_%20ripple_Counter_test.v) 
+<img src="https://user-images.githubusercontent.com/47665581/206871552-d9d65a96-eddc-42f3-beca-0cd14cf792ef.png" width="400" height="200">   <img src="https://user-images.githubusercontent.com/47665581/204127013-b9ec37f3-4caa-4610-a10f-02a66d901102.png" width="400" height="200">
 
 
 ##### • [Synchronous counter]()
