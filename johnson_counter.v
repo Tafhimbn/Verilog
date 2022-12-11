@@ -42,8 +42,6 @@ module d_ff(q,qbar,clk, d,rst);
 	assign qbar = ~q;
 endmodule
 
-
-
 module ring_counter(clk, rst,out);
 	input clk, rst; 
 	parameter n = 4;
