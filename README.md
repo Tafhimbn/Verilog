@@ -67,7 +67,7 @@
 
 
 ##### • [Synchronous counter]()
-<img src="https://user-images.githubusercontent.com/47665581/204127029-3371c959-91cf-4bd6-8686-368b6e790ca2.png" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/47665581/206888277-fc345f85-3605-47b9-afd0-7581063cc53d.png" width="400" height="200">
 
 ###### • Ring Counter
 ###### • Johnson Counter
