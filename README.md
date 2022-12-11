@@ -72,7 +72,7 @@
 ######  i. [Ring Counter](https://github.com/Tafhimbn/Verilog/blob/main/ring_counter.v) -[Test bench](https://github.com/Tafhimbn/Verilog/blob/main/ring_counter_testv)
  <img src="https://user-images.githubusercontent.com/47665581/206888947-2d0831f0-c2ff-4c8b-9792-bf8bd5a33e48.png" width="400" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206888660-3e12f543-c04b-4367-a6d7-4c520baf69ef.png" width="400" height="200">
 
-######  ii. Johnson Counter
+######  ii. [Johnson Counter](https://github.com/Tafhimbn/Verilog/blob/main/johnson_counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/johnson_counter_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/206888704-199be8d7-d223-4d5a-9618-700f578de9d0.png" width="600" height="200">
 
 ##### • Mod-N Counter
