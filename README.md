@@ -54,10 +54,6 @@
 ##### • T flip flop
 #### Master slave flip flop
 
-### Register
-##### • Resettable Registers
-##### • Enabled Registers
-##### • Multiple Registers 
 
 ### counters
 ##### • [8-bit counter](https://github.com/Tafhimbn/Verilog/blob/main/counter.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/counter_test.v)
