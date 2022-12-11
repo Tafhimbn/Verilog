@@ -70,7 +70,7 @@
 <img src="https://user-images.githubusercontent.com/47665581/206888277-fc345f85-3605-47b9-afd0-7581063cc53d.png" width="400" height="200">
 
 ###### • Ring Counter
- <img src="https://user-images.githubusercontent.com/47665581/206888688-001ba072-b415-4cdf-aa37-ef114ba49678.png" width="400" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206888660-3e12f543-c04b-4367-a6d7-4c520baf69ef.png" width="400" height="200">
+ <img src="https://user-images.githubusercontent.com/47665581/206888914-41f6ecbe-21f7-4f87-92e1-b5c7f6bfe7dc.png" width="400" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206888660-3e12f543-c04b-4367-a6d7-4c520baf69ef.png" width="400" height="200">
 
 ###### • Johnson Counter
 <img src="https://user-images.githubusercontent.com/47665581/206888704-199be8d7-d223-4d5a-9618-700f578de9d0.png" width="600" height="200">
