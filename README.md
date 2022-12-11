@@ -66,10 +66,10 @@
 <img src="https://user-images.githubusercontent.com/47665581/206871552-d9d65a96-eddc-42f3-beca-0cd14cf792ef.png" width="400" height="200">   <img src="https://user-images.githubusercontent.com/47665581/204127013-b9ec37f3-4caa-4610-a10f-02a66d901102.png" width="400" height="200">
 
 
-##### • [Synchronous counter]()
+##### • Synchronous counter
 <img src="https://user-images.githubusercontent.com/47665581/206888277-fc345f85-3605-47b9-afd0-7581063cc53d.png" width="400" height="200">
 
-###### • Ring Counter
+###### • [Ring Counter](https://github.com/Tafhimbn/Verilog/blob/main/ring_counter.v) -[Test bench](https://github.com/Tafhimbn/Verilog/blob/main/ring_counter_testv)
  <img src="https://user-images.githubusercontent.com/47665581/206888947-2d0831f0-c2ff-4c8b-9792-bf8bd5a33e48.png" width="400" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206888660-3e12f543-c04b-4367-a6d7-4c520baf69ef.png" width="400" height="200">
 
 ###### • Johnson Counter
