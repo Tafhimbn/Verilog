@@ -48,6 +48,9 @@
 <img src="https://user-images.githubusercontent.com/47665581/206358162-c3377ec9-d55d-4da3-a1d0-4e0ad823f6db.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206357612-702bc49d-e122-4c8e-8819-6682f10e9e44.png" width="300" height="200">  
 
 ##### • JK flip flop
+<img src="https://user-images.githubusercontent.com/47665581/206903308-02330f70-d587-4288-9999-f7c2ccea7f19.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206903367-ad53005b-a236-497e-a284-9b1d323026d4.png" width="300" height="200">
+
+
 ##### • [D flip flop](https://github.com/Tafhimbn/Verilog/blob/main/d_ff.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/d_ff_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/206380572-fa523026-c340-4abb-ba46-3a692d841d1f.png" width="300" height="200">  <img src="https://user-images.githubusercontent.com/47665581/206380774-300b7c00-7f03-4ba1-abb8-9243c9bdddcc.png" width="300" height="200">
 
