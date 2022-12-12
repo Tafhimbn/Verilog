@@ -33,5 +33,4 @@ module alu(a,b,alu_sel,alu_out,carryout);
         default: {tmp,alu_result} = 0 ; 
         endcase
     end
-
 endmodule
