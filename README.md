@@ -109,6 +109,7 @@
 ##  ❖ Parameterized Modules
 #### Single Port RAM
 ##  ❖Verilog projects :
+#### 1. [8 Bit ALU](https://github.com/Tafhimbn/Verilog/blob/main/8bit_alu.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/8bit_alu_test.v)
 #### 1. FIFO memory
 #### 2. 16-bit single-cycle MIPS processor
 #### 3. Programmable Digital Delay Timer in Verilog HDL
