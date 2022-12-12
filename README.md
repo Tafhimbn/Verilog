@@ -84,6 +84,12 @@
 ##### • Mod-N Counter
 ##### • Gray Counter
 
+#### Register
+###### • Asynchronus Register
+###### • Synchronous Register
+###### • Restable Register
+###### • Restable Enabled Register
+
 #### Shift register
 #### Controlled Register
 ###### • Shift Register (SISO Mode)
