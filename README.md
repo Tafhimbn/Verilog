@@ -41,6 +41,9 @@
 ###### • [1 to 4 Multiplexer](https://github.com/Tafhimbn/Verilog/blob/main/demux_1to4.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/demux_1to4_test.v)
 <img src="https://user-images.githubusercontent.com/47665581/204129730-9c6af4c1-9429-47be-82a3-bacb4b3f63c6.png" width="300" height="300">  <img src="https://user-images.githubusercontent.com/47665581/204129752-9b8b6404-ed83-4981-bd07-e7044682c440.png" width="300" height="200">
 
+#### xiii. [Tristate Buffer](https://github.com/Tafhimbn/Verilog/blob/main/tristate_buffer.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/tristate_buffer_test.v)
+<img src="https://user-images.githubusercontent.com/47665581/206967753-ad94f9d0-b032-4758-847f-0677f31d6881.png" width="500" height="200"> 
+
 ##  ❖ Sequential Logic
 
 ### Flip flop and Latches
