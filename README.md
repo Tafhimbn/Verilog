@@ -87,7 +87,7 @@
 #### Register
 ###### • [Register](https://github.com/Tafhimbn/Verilog/blob/main/register.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/register_test.v)
 ###### • [Restable Register](https://github.com/Tafhimbn/Verilog/blob/main/register_resetable.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/register_resetable_test.v)
-###### • Restable Enabled Register
+###### • [Restable Enabled Register](https://github.com/Tafhimbn/Verilog/blob/main/register_restable_enabled.v)
 
 #### Shift register
 #### Controlled Register
