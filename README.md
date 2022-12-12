@@ -86,7 +86,7 @@
 
 #### Register
 ###### • [Register](https://github.com/Tafhimbn/Verilog/blob/main/register.v) - [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/register_test.v)
-Asynchronus Register
+###### • Asynchronus Register
 ###### • Synchronous Register
 ###### • Restable Register
 ###### • Restable Enabled Register
