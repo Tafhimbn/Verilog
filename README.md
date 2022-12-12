@@ -2,7 +2,11 @@
 [ ]( )
 ##  ❖ Introduction
 ####  Modules
-#### Simulation and Synthesis 
+#### Simulation and Synthesis
+
+##  ❖ Logic Gates 
+
+####  i. [Inverter](https://github.com/Tafhimbn/Verilog/blob/main/inverter.v) -  [Test bench](https://github.com/Tafhimbn/Verilog/blob/main/inverter_test.v)
 
 ##  ❖ Combinational Logic 
 ####  i. [Half Adder](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_adder.v) -  [Test bench](https://github.com/Tafhimbn/Verilog-Practice/blob/main/half_adder_test.v)
